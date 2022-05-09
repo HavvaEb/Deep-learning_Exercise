@@ -13,7 +13,7 @@ However, others types of structured data exist. A prominent example is the `json
 
 ![Structured or unstructured data (Image)](./assets/structured-unstructured-data.png)
 
-## What is *Deep Learning* 
+## What is *Deep Learning*?
 
 *Deep learning* is a subset of machine learning that makes use of prediction model that are related to how a biological neuron functions. These are called **artificial neural networks**.
 
